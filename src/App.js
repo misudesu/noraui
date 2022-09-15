@@ -9,16 +9,15 @@ import Footer from './component/Footer';
 
 function App() {
   return (
-    <div clssName=""> 
     <Router>
 <NavBar/>
   <Routes> 
+  
    <Route exact path="/" element ={<Home/>} />
-   <Route exact path="/ui" element={<Buttonui/>}/>
+   <Route  path="/ui" element={<Buttonui/>}/>
     </Routes>
    <Footer/>
   </Router> 
- </div>
   );
 }
 

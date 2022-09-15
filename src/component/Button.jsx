@@ -51,8 +51,8 @@ data:[
  
   </div>
   <div class="col-3  ">
-  <button className=' flex btn text-sm lg:text-lg  ' style={{color: data.color}}>{data.Text} <img src={data.img1} className=" lg:px-2 w-8 h-3 lg:w-8 lg:h-5 "/></button>
- 
+  <button className=' flex btn text-sm lg:text-lg  ' style={{color: data.color}}>{data.Text} <img src={data.img1} className=" lg:px-2 w-8 h-3 lg:w-8 lg:h-5 "/>
+  </button>
   </div>
   
 </div>

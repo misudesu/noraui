@@ -2,7 +2,7 @@ import React from 'react'
 import img from './logo.png'
 import imt from './imt 2.png'
 import {BrowserRouter as Router,Route,Routes,Link,useLocation,Nav} from 'react-router-dom'
-
+import Home from './Home'
 export default function NavBar() {
   return (
     <div>
@@ -38,6 +38,9 @@ export default function NavBar() {
     </div>
   </div>
 </nav>
+
+
+
     </div>
   )
 }

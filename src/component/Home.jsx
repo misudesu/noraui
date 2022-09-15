@@ -14,7 +14,7 @@ import {BrowserRouter as Router,Route,Routes,Link,useLocation,Nav} from 'react-r
 export default function Home() {
   return (
     <div className="bg-bg">
-    <div className='container   '>
+    <div className='container'>
 <div class="grid lg:grid-cols-2  gap-8 w-5/5 flex py-32 ">
     <div className=''>
         <h1 className=' lg:mt-32 text-tl font-bold text-6xl'>Awesome Buttons Just for You.</h1>
@@ -47,7 +47,7 @@ export default function Home() {
 </div>
 <div className="flex">
 <img src={img9} className=""/>
-<img src={img10} className="absolute  pr-6 w-20 my-[120px] mx-0.5  lg:w-36 lg:my-60"/>
+<img src={img10} className="absolute  pr-6 w-20 my-[125px] mx-0.5  lg:w-36 lg:my-60"/>
 
 </div>
 </div>
