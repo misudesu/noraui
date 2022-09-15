@@ -14,7 +14,7 @@ import {BrowserRouter as Router,Route,Routes,Link,useLocation,Nav} from 'react-r
 export default function Home() {
   return (
     <div className='container   '>
-<div class=" grid grid-cols-2  gap-8 w-5/5 flex py-32 ">
+<div class=" grid lg:grid-cols-2  gap-8 w-5/5 flex py-32 ">
     <div className=''>
         <h1 className=' mt-32 text-tl font-bold text-6xl'>Awesome Buttons Just for You.</h1>
    <p className='text-left mt-3 text-xl'>Buttons are fashion accessories used as garment fasteners made out of plastic, shells, pearls, antlers, used on a piece of clothing. It is usually tacked on shirts, tops, skirts or dresses. Buttons can be used as fasteners or for the purpose of adornment of decorations.</p>
