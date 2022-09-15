@@ -46,7 +46,7 @@ export default function Home() {
 </div>
 <div className="flex">
 <img src={img9} className=""/>
-<img src={img10} className="absolute my-56 w-36 pr-8"/>
+<img src={img10} className="absolute my-60   w-36 pr-6"/>
 
 </div>
 </div>
