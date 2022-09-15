@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/noraui/static/css/main.74bde4d0.css",
-    "main.js": "/noraui/static/js/main.754a9d59.js",
+    "main.css": "/noraui/static/css/main.c330cd35.css",
+    "main.js": "/noraui/static/js/main.f7de2a8e.js",
     "static/js/787.326eafa4.chunk.js": "/noraui/static/js/787.326eafa4.chunk.js",
     "static/media/Rectangle 11.png": "/noraui/static/media/Rectangle 11.7c0921dd4b113881fd61.png",
     "static/media/Rectangle 6.png": "/noraui/static/media/Rectangle 6.7048bfeb522cc657ba57.png",
@@ -11,12 +11,12 @@
     "static/media/Rectangle 9.png": "/noraui/static/media/Rectangle 9.513fc53e9efe996aa5d2.png",
     "static/media/logo.svg": "/noraui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/noraui/index.html",
-    "main.74bde4d0.css.map": "/noraui/static/css/main.74bde4d0.css.map",
-    "main.754a9d59.js.map": "/noraui/static/js/main.754a9d59.js.map",
+    "main.c330cd35.css.map": "/noraui/static/css/main.c330cd35.css.map",
+    "main.f7de2a8e.js.map": "/noraui/static/js/main.f7de2a8e.js.map",
     "787.326eafa4.chunk.js.map": "/noraui/static/js/787.326eafa4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74bde4d0.css",
-    "static/js/main.754a9d59.js"
+    "static/css/main.c330cd35.css",
+    "static/js/main.f7de2a8e.js"
   ]
 }
