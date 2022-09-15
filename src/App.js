@@ -9,6 +9,7 @@ import Footer from './component/Footer';
 
 function App() {
   return (
+    <>
     <Router>
 <NavBar/>
   <Routes> 
@@ -16,8 +17,9 @@ function App() {
    <Route exact path="/" element ={<Home/>} />
    <Route  path="/ui" element={<Buttonui/>}/>
     </Routes>
-   <Footer/>
+  <div> <Footer/></div>
   </Router> 
+  </>
   );
 }
 
